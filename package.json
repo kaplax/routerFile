@@ -17,5 +17,8 @@
   "homepage": "https://github.com/kaplax/routerFile#readme",
   "dependencies": {
     "chalk": "^2.3.0"
+  },
+  "devDependencies": {
+    "react-cookies": "^0.1.0"
   }
 }
